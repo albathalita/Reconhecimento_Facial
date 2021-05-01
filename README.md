@@ -7,3 +7,5 @@ O SVM é uma classe de algoritmos supervisionados que analisam dados e reconhece
 O OpenCV é uma biblioteca utilizada na área de visão computacional para análise em imagens e vídeos. Suas aplicações podem ser detecção, tracking e reconhecimento facial, edição de fotos e vídeos, detecção e análise de textos, entre outros.
 
 E pro fim, o PCA é um algoritmo não supervisionado que utiliza os eixos principais encontrados nos dados para descrever um conjunto de dados e ele é utilizado para redução de dimensionalidade, vizualização, filtragem de ruídos, entre outros.
+
+No código foi utilizado a base de dados do drive pessoal
