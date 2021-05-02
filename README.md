@@ -8,4 +8,4 @@ O OpenCV é uma biblioteca utilizada na área de visão computacional para anál
 
 E pro fim, o PCA é um algoritmo não supervisionado que utiliza os eixos principais encontrados nos dados para descrever um conjunto de dados e ele é utilizado para redução de dimensionalidade, vizualização, filtragem de ruídos, entre outros.
 
-# - Por problemas técnicos, ainda estou editando o vídeo
+[![](https://youtu.be/Yy0m-uUdzcA.jpg)](https://youtu.be/Yy0m-uUdzcA)
